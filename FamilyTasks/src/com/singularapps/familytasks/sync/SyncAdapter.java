@@ -55,6 +55,8 @@ public class SyncAdapter extends AbstractThreadedSyncAdapter {
             ContentProviderClient provider,
             SyncResult syncResult) {
     	
+    	// modificacion en el portatil
+    	
     	try {
     		Log.d("SyncDemo", "Sincronizando!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
     		
